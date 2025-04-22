@@ -13,4 +13,4 @@ To install, simply run the following command;
 # Notes
 More features may be added in the future if it makes sense.
 
-> **_NOTE:_** footnote: some guy on reddit told me my code was dangerous or something, use at your own risk please :)
+> **_NOTE:_** some guy on reddit told me my code was dangerous or something, use at your own risk please :)
