@@ -6,3 +6,6 @@ Bao is a simple command line utility to write text output to a specified file. T
 If the file name or string you'd like to write is multiple words, simply wrap it in quotes('') or double quotes("") as seen above.
 
 # Installation
+To install, simply run the following command;
+
+sudo curl -L -o /usr/bin/Bao raw.githubusercontent.com/tapebysea/Bao/refs/heads/main/Bao && sudo chmod +x /usr/bin/Bao
