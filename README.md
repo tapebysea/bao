@@ -11,6 +11,6 @@ To install, simply run the following command;
     sudo curl -L -o /usr/bin/Bao raw.githubusercontent.com/tapebysea/Bao/refs/heads/main/Bao && sudo chmod +x /usr/bin/Bao
 
 # Notes
-More features may be added in the future if it makes sense.
+More features may be added in the future if it makes sense. If you'd like to contribute, please do so. Code may or may not be accepted.
 
 > Footnote: some guy on reddit told me my code was dangerous or something, use at your own risk please :)
