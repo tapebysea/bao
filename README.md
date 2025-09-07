@@ -8,7 +8,7 @@ If the file name or string you'd like to write is multiple words, simply wrap it
 # Installation
 To install, simply run the following command;
 
-    sudo curl -L -o /usr/bin/bao raw.githubusercontent.com/tapebysea/bao/refs/heads/main/main/bao && sudo chmod +x /usr/bin/bao
+    sudo curl -L -o /usr/bin/bao raw.githubusercontent.com/tapebysea/bao/refs/heads/main/src/bao && sudo chmod +x /usr/bin/bao
 
 # Notes
 More features may be added in the future if it makes sense. If you'd like to contribute, please do so. Code may or may not be accepted.
